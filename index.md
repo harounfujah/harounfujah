@@ -1,10 +1,10 @@
-## MSc Cyber Security E-Portfolio
+## MSc Cyber Security Academic E-Portfolio
 
 ---
 
-### Category Name 1 
+### Network and Information Security Management  
 
-[Project 1 Title](/sample_page)
+[Learning Outcomes](/Outcomes.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
