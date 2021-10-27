@@ -3,9 +3,9 @@
 ---
 
 ### Network and Information Security Management  
-
-[Learning Outcomes](/Outcomes.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Summary of Learning Outcomes](/Outcomes.md)
+
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
