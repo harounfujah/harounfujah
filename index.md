@@ -6,18 +6,20 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Summary of Learning Outcomes](/Outcomes.md)
 
-
----
+### Discussion Summaries
 [Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+
+[Project 2 Title](/pdf/sample_presentation.pdf)
+
+
+
 [Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
 
 ---
 
-### Category Name 2
+### Vulnerability Scanning
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
