@@ -7,7 +7,7 @@
 [Summary of Learning Outcomes](/Outcomes.md)
 
 ### Collaborative Learning Discussions 
-[Threats & Vulnerabilities in Implantable Medical Devices](/pdf/sample_presentation.pdf)
+[Threats & Vulnerabilities in Implantable Medical Devices](/disc1.md)
 
 
 [Scanning Excercise](/pdf/sample_presentation.pdf)
