@@ -10,7 +10,7 @@
 [Threats & Vulnerabilities in Implantable Medical Devices](/disc1.md)
 
 
-[Scanning Excercise](/pdf/sample_presentation.pdf)
+[Scanning Excercise](/scan.md)
 
 
 [GDPR Case Study](http://example.com/)
