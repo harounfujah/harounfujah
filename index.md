@@ -6,15 +6,14 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 [Summary of Learning Outcomes](/Outcomes.md)
 
-### Discussion Summaries
-[Project 2 Title](/pdf/sample_presentation.pdf)
+### Collaborative Learning Discussions 
+[Threats & Vulnerabilities in Implantable Medical Devices](/pdf/sample_presentation.pdf)
 
 
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Scanning Excercise](/pdf/sample_presentation.pdf)
 
 
-
-[Project 3 Title](http://example.com/)
+[GDPR Case Study](http://example.com/)
 
 
 ---
