@@ -1,9 +1,7 @@
 Summary Post
 
-My initial post examined the case study in which a couple experienced the loss of an evidence file while in the custody of An Garda Síochána (AGS). The file contained the couple’s private and confidential information such as medical treatment and postal data.  This summary post will analyze countermeasures to mitigate the issue.
-
-The inability of the officer to return the file to the district Office implicates AGS, as the data controller, of contravening the fundamental obligations of data protection law which states that data controllers must have necessary security mechanisms in place to warrant the safeguarding of private data.  
-As a result, AGS violated Section 2(1)(d) of the Data Protection Acts 1988 and 2003 (Case Studies | Data Protection Commission, no date).
+My initial post examined the case study in which a couple experienced the loss of an evidence file while in the custody of An Garda Síochána (AGS). The file contained the couple’s private and confidential information such as medical treatment and postal data.  This summary post will analyze countermeasures to mitigate the issue.The inability of the officer to return the file to the district Office implicates AGS, as the data controller, of contravening the fundamental obligations of data protection law which states that data controllers must have necessary security mechanisms in place to warrant the safeguarding of private data.  
+As a result, AGS violated Section 2(1)(d) of the Data Protection Acts 1988 and 2003 (Case Studies Data Protection Commission, no date).
 
 
 Police organizations such as AGS must adopt necessary physical and information security measures in place especially when they deal with sensitive medical treatment information. (Neveux, 2021) states that for cyber criminals, healthcare information is more valuable to sell on the black market because it frequently contains a person's personally identifiable information, relative to a financial breach where minimal personal information is uncovered.  
