@@ -3,7 +3,7 @@
 ---
 
 ### Network and Information Security Management  
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/network-security.jpeg"/>
 [Summary of Learning Outcomes](/Outcomes.md)
 
 ### Collaborative Learning Discussions 
