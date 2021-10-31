@@ -19,7 +19,7 @@ References
 Campbell, T., (2016) Practical Information Security Management: A Complete Guide to Planning and Implementation. 1st ed. Springer Nature.
 
 
-Case Studies | Data Protection Commission (no date) Case Studies | Data Protection Commission. [online]  Available at:< https://www.dataprotection.ie/pre-gdpr/case-studies [Accessed: 12 October 2021].
+Case Studies | Data Protection Commission (no date) Case Studies Data Protection Commission. [online]  Available at:< https://www.dataprotection.ie/pre-gdpr/case-studies [Accessed: 12 October 2021].
 
 
 
