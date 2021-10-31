@@ -1,4 +1,4 @@
-## MSc Cyber Security Academic E-Portfolio
+## University of Essex MSc Cyber Security Academic E-Portfolio
 
 ---
 
