@@ -13,7 +13,7 @@
 [Scanning Excercise](/scan.md)
 
 
-[GDPR Case Study](http://example.com/)
+[GDPR Case Study](/case.md)
 
 
 ---
