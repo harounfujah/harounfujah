@@ -33,4 +33,4 @@ Ico.org.uk. (no date) Encryption. [online]  Available at: <https://ico.org.uk/fo
 
 
 
-Neveux, E., (2021) The Value of Healthcare Data | SecureLink. [online] SecureLink. Available at: [Accessed 30 October 2021].
+Neveux, E., (2021) The Value of Healthcare Data | SecureLink. [online] SecureLink. Available at:https://www.securelink.com/blog/healthcare-data-new-prize-hackers/ [Accessed 30 October 2021].
