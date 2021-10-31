@@ -19,7 +19,7 @@ References
 Campbell, T., (2016) Practical Information Security Management: A Complete Guide to Planning and Implementation. 1st ed. Springer Nature.
 
 
-Case Studies | Data Protection Commission (no date) Case Studies Data Protection Commission. [online]  Available at:< https://www.dataprotection.ie/pre-gdpr/case-studies [Accessed: 12 October 2021].
+Case Studies Data Protection Commission (no date) Case Studies Data Protection Commission. [online]  Available at:< https://www.dataprotection.ie/pre-gdpr/case-studies [Accessed: 12 October 2021].
 
 
 
@@ -31,4 +31,4 @@ Ico.org.uk. (no date) Encryption. [online]  Available at: <https://ico.org.uk/fo
 
 
 
-Neveux, E., (2021) The Value of Healthcare Data | SecureLink. [online] SecureLink. Available at:https://www.securelink.com/blog/healthcare-data-new-prize-hackers/ [Accessed 30 October 2021].
+Neveux, E., (2021) The Value of Healthcare Data  SecureLink. [online] SecureLink. Available at:https://www.securelink.com/blog/healthcare-data-new-prize-hackers/ [Accessed 30 October 2021].
