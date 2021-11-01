@@ -1,37 +1,67 @@
 Executive Summary by the Security Squad Group 2: Nils Linhoff, Adrian Boscu, Haroun Fujah
 
 Content
+
 Introduction	3
+
 Security issues found	3
+
 Summary scanning analysis	3
+
 NMAP scan	4
+
 LEGION scan	6
+
 DirBuster scan	7
+
 Summary of threat analysis	10
+
 STRIDE	11
+
 Spoofing	12
+
 Tampering	12
+
 Repudiation	13
+
 Information Disclosure	13
+
 Denial of Service	14
+
 Elevation of Privilege	14
+
 PASTA	14
+
 DREAD	15
+
 DREAD Risk Rating Scheme	16
+
 Threats to the Yoga&Pilates website in relation to DREAD	17
+
 Evaluation and recommendation of security standards	18
+
 Evaluation of “Yoga&Pilates” website against GDPR	18
+
 Lawful basis and transparency	18
+
 Data security	18
+
 Accountability and governance	18
+
 Privacy rights	18
+
 Recommendation for a ISO27001 certifications	19
+
 Summary of recommendations	19
+
 Executive action plan	20
+
 References	21
 
 Introduction
+
 The Security Squad was tasked with scanning and analysing the Pilates&Yoga e-health website (https://dev8773.d2d6ymu8mykhhu.amplifyapp.com/). In this executive summary we present our findings as well as our recommendations.
+
 Security issues found
 
 The table below presents the tools we have used for the scanning as well as the vulnerabilities found for each tool.
@@ -44,6 +74,7 @@ Summary scanning analysis
 The reason behind selecting the following tools is mainly because they are open source as well as specifically designed for the job as part of the Kali Linux deployment package and they are the industry standards in terms of security and penetration testing according to Allen, Heriyanto and Shakeel Ali, 2014. Each tool is used for a specific purpose which in our case was for port discovery (NMAP and Legion) as well as directory and file search (DirBuster)
 
 NMAP scan
+
 Scanning with Nmap provides a detailed list of known ports that the host is actively listening for incoming connections. 
  
  ![image](https://user-images.githubusercontent.com/83823903/139731106-3ca5d6df-b497-402c-98da-9bc7721e549f.png)
@@ -107,7 +138,9 @@ Tampering
 Malicious actors tampering with E-health website directory files  
 
 Malicious Attackers can alter files in a setting where they have appropriate permission. Hence, they can modify E-health confidential business files due to the poorly defined access privileges of the website directory and files revealed by the DirBuster Vulnerability scanning exercise. This erodes customer trust in the E-health and yoga business.
+
 Wireless (Wi-Fi) Network Tampering
+
 (Shostack, 2014) maintains that network tampering arises when a malicious attacker can alter data travelling within the Wi-Fi wireless network and redirect it to their machine.  Several network protocols were designed with the requirement of specialist hardware to generate or read random packets. The prerequisite of special hardware safeguards against tampering and spoofing threats.
 
 Repudiation
@@ -139,7 +172,9 @@ Denial of service attacks overwhelm a resource that is required to deliver a ser
 The occurrence of IP spoofing due to the open network ports aids the probability of a denial-of-service attack.  Cyber criminals can utilize spoofed IP addresses to overpower computer servers with packets of data thereby shutting the E-health fitness and yoga website down (What is IP spoofing?, n.d.).This signifies a total compromise of system availability and integrity as the E-health website is shut down and customers are unable to access required services. 
 
 Elevation of Privilege
+
 Unauthorized access of E-health website directory & files
+
 Elevation of privilege threats occur when a malicious actor gains access to data and services which they are not legitimately authorized to see (Alhassan et al., 2016). This relates to the ambiguous access privileges for the E-health website directory and files discovered by the DirBuster scanning exercise.
 Furthermore, A particular limitation of the stride is that the quantity of threats can grow significantly as a system increases in complexity (Shevchenko et al., 2018).
 
@@ -180,33 +215,59 @@ The European Data Protection Regulation (GDPR)  is a federated security standard
 Since the website as well as its services are located in the United States the site does not need to hold up against GDPR standards. However, the Security Squad recommends, in the case of expansion of the business to a GDPR country, to work through the following checklist (GDPR compliance checklist - GDPR.eu, no date). The GDPR comprises different security dimensions: Lawful basis and transparency, data security, accountability, and governance as well as privacy rights.
 
 Lawful basis and transparency
+
 ●	Information audit: conduct an audit on what information the organisation has and how it processes it.
+
 ●	legal justification for data processing: provides a legal justification for the processing of private data
+
 ●	provide a clear privacy policy: inform the customer on how and why their data is processed.
+
 Data security
+
 ●	secure software development: practice secure software development and processes 
+
 ●	encrypt, anonymize and pseudonime: Use these data protection methods whenever possible
+
 ●	data security awareness: provide training for the organisation
+
 ●	data protection impact assessment
+
 ●	plan for a data breach: have an action plan ready in case of a data breach
+
 Accountability and governance
+
 ●	Assign GDPR roles: assign the necessary roles in the organisation such as data protection officer
+
 ●	Data processing agreement: provide a data processing agreement for your customers and any third party
+
 Privacy rights
+
 ●	Right to enquire personal data: ensure that the customer has an easy way to enquire which data has been stored.
+
 ●	Right to update and correct personal data: ensure that the customer has an easy way to update and correct their personal data
+
 ●	Right to delete data: ensure that the customer has an easy way to request that their data is deleted
+
 ●	Right to request stop processing data: ensure that the customer has an easy war to request to stop processing their data.
+
 This list is just to highlight the most important key factors of the GDPR, it is not exhaustive. But we strongly recommend implementing a data consent form for the processing of cookies regardless of the current place of business. For an in-depth analysis of GDPR compliance we recommend commissioning the Security Squad.
 
 Recommendation for a ISO27001 certifications
+
 The Security Squad recommends a ISO 27001 certification in order to show good data security practice and to stay competitive in the market. The industry standard ISO 27001 for Information security management system might includes requirements for the assessment and treatment of information security risks (The new ISO/IEC 27001:2013 standard, no date). It is the norm for the implementation and operation of an information security management system. This has several benefits:
+
 ●	minimizing legal and operational risks
+
 ●	optimizing security processes
+
 ●	reducing IT-costs
+
 ●	increasing trust among customers, business partners
+
 ●	identifying security threats 
+
 ●	protecting data against disclosure, tampering and repudiation
+
 To achieve a ISO 27001 certification a information security management system should be implemented and possible security risks should be identified, evaluated and observed (See Summary of threat analysis/Summary of scanning analysis).  The Security Squad strongly recommends an ISO 27001 certification to publicly display that cybersecurity and data security is well managed at this organisation.
 
 Summary of recommendations
@@ -260,5 +321,4 @@ The new ISO/IEC 27001:2013 standard (no date). Available at: https://www.bsigrou
 
 
 
-Legion is a similar tool as Nmap that provides details about the ports the host is listening to for incoming connections but in addition it provides a list of possible vulnerabilities that the host is running such as an old ssh server version. In our case because the web service is provided through CloudFront the output of vulnerabilities are not listed. 
 
