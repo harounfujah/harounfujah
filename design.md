@@ -116,10 +116,9 @@ Timeline
 
 ![image](https://user-images.githubusercontent.com/83823903/139734210-7ffee047-e08a-4c2b-92fa-430ccbc390e1.png)
 
-![image](https://user-images.githubusercontent.com/83823903/139734245-b4b69a95-9b93-4d03-9347-4e9441b43ba7.png)
 
 
- 
+
 
 
 References.
