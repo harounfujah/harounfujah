@@ -22,6 +22,13 @@
 
 [Evaluation of Scanning Tools](/evaluation.md)
 
+
+[Design Document](/design.md)
+
+
+[Executive Summary](/exec.md)
+
+
 ---
 
 
