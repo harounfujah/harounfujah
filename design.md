@@ -5,9 +5,13 @@ The security Squad (Group2) is tasked with scanning and analysing an E-Health we
 Limitations and assumptions.
 
 •	Availability of Website
+
 •	Limitations due to time/manpower constraints:
+
 •	Limitations due to the availability of tools (costs/complexity)
+
 •	Application of GDPR (depends on geographical location of servers, customers, users).
+
 •	Application of data protection industry standards
 
 Security challenges 
@@ -26,23 +30,37 @@ Phishing is not a contemporary security threat, however due to the increased occ
 
 
 Methodology 
+
 All scanning exercises will be done remotely from a location in NL. The results and the potential vulnerabilities will be clustered and organized according to the STRIDE analysis. STRIDE is an acronym derived from the following threat categories (Microsoft, 2009):
+
 •	Spoofing Identity
+
 •	Tampering with Data
+
 •	Repudiation
+
 •	Information disclosure
+
 •	Denial of service
+
 •	Elevation of privileges
+
 The STRIDE analysis is especially useful for inspecting each system component for vulnerabilities which could comprise the whole system (Khan et al., 2017).  
 
 Beside the more general STRIDE method for threat categories the more holistic approach to threat modelling that considers business as well as technology, Process for Attack Simulation and Threat Analysis (PASTA), will be used:
 
 1: Define business objectives
+
 2: Define the technical scope of assets and components
+
 3: Application factoring and identify application controls
-4: Threat analysis based on threat intelligence 
+
+4: Threat analysis based on threat intelligence
+
 5: Vulnerability detection
+
 6: Analyse and model attack
+
 7: Risk/ impact analysis and development of countermeasures
 
 The PASTA approach is attack centric vulnerability analysis which is the basis for an asset-based mitigation strategy (Ucedavélez and Morana, 2015).
@@ -50,9 +68,13 @@ Finally, after exploring the vulnerabilities with the help of the STRIDE and PAS
 DREAD categorizes the risk level into:
 
 •	Damage – how bad would an attack be?
+
 •	Reproducibility – how easy is it to reproduce the attack?
+
 •	Exploitability – how much work is it to launch the attack?
+
 •	Affected users – how many people will be impacted?
+
 •	Discoverability – how easy is it to discover the threat?
 
 Each category is then given a rating from 1-10. However, one notable limitation of the DREAD method is that the rating is subjective (Howard et al., 2014). To mitigate this problem, we entrust the rating to our very experienced pen-tester.
@@ -65,8 +87,11 @@ Tools and scanning approaches.
 
 Scanning tools:
 ●	Kali Linux deployed as a VM on an ESXi environment with public internet access (Allen, Heriyanto and Shakeel Ali, 2014). We have selected Kali linux as it is an updated open-source operating system that is bundled with many tools for information gathering and exploitation. 
+
 ●	Legion as part of Kali Linux - scanning of ports open for the website. Legion provides a detailed scan of remote targets from open ports that the host is listening to as well as target screenshots of http/https pages. 
+
 ●	DirBuster as part of Kali Linux - to find hidden and public files and subdirectories. We have selected DirBuster for the purpose of brute force website crawling that is able to scan a website against a specific word list directory. 
+
 Evaluation of Kali Linux against other most common scanning tools:
  
 Approaches: 
@@ -89,6 +114,9 @@ Business impacts on the employed tools and methods are non-existent in terms of 
 
 Timeline
 
+![image](https://user-images.githubusercontent.com/83823903/139734210-7ffee047-e08a-4c2b-92fa-430ccbc390e1.png)
+
+![image](https://user-images.githubusercontent.com/83823903/139734245-b4b69a95-9b93-4d03-9347-4e9441b43ba7.png)
 
 
  
@@ -113,6 +141,7 @@ Khan, R. et al. (2017) ‘STRIDE-based threat modeling for cyber-physical system
 Microsoft (2009) The STRIDE Threat Model. Available at: https://docs.microsoft.com/en-us/previous-versions/commerce-server/ee823878(v=cs.20) (Accessed: 29 June 2021).
 
 The new ISO/IEC 27001:2013 standard (no date). Available at: https://www.bsigroup.com/en-GB/iso-27001-information-security/ISOIEC-27001-Revision/ (Accessed: 8 September 2021).
+
 Ucedavélez, T. and Morana, M.M. (2015) Risk Centric Threat Modeling: Process for Attack Simulation and Threat Analysis. Hoboken, NJ, USA: John Wiley & Sons, Inc. doi:10.1002/9781118988374.
 
 
