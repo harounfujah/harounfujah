@@ -20,6 +20,10 @@
 
 ### Vulnerability Scanning
 
+---
+
+### Research Methods and Professional Practice 
+
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
