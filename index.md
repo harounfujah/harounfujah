@@ -27,14 +27,6 @@
 
 ---
 
-### Literature Review and Research Propsal Outlines ###
-
-[Literature Review Outline](/exec.md)
-
-[Research Proposal Outline](/case.md)
-
----
-
 ### Summary Measures and Hypothesis Testing Worksheets ###
 
 
@@ -55,7 +47,7 @@
 
 ### Reflections  ###
 
-[Individual Unit Reflections]
+[Individual Unit Reflections](/exec.md)
 
 ---
 
