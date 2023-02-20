@@ -86,6 +86,8 @@
 
 
 ### Relative Frequency Histogram ###
+<img src="images/relativefreqhist.jpeg"/>
+
 
 
 
@@ -105,6 +107,18 @@
 ---
 
 ### Feedback from Tutor  ###
+
+### Literature Review Feedback  ###
+<img src="images/litrevfeed.jpeg"/>
+
+
+
+
+### Research Proposal Presentation Feedback  ###
+
+
+
+
 
 
 
