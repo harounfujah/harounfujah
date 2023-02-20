@@ -1,12 +1,26 @@
-Group 2 : Results of basic scans of groups 3 website
 
-Group 3 provided us with their website information (https://dev8773.d2d6ymu8mykhhu.amplifyapp.com/) to do some basic scanning. Since we are residing at different locations (Germany, Netherlands and Nigeria) we decided that each member carries out their own scanning, so we can compare the effect of location and time zones.
+Firstly, this summary post will highlight the ethical, legal, social, and professional impacts on the choice of Abi, a statistical programmer and researcher who received a project from the manufacturer of a new cereal, Whizzz.  
 
-Nils did his scanning from Düsseldorf, Germany and could reach the website in 3 hops using tracert. The biggest delay hereby was the third hop with 14ms.This latency could be caused by distance (as the website server is in the US, hosted by Amazon) or by bandwidth limitations. The ping resulted Minimum = 87ms, Maximum = 94ms, Middle= 90ms. There was no detectable MX record. A whois search (https://whois.domaintools.com/) showed that most information was redacted for privacy.
+Milnaric (2017) states that research with positive results is circulated more than research with negative findings, which results in the creation of publication bias.  Consequently, undisclosed negative results present a bias in Abi’s statistical research findings which misleads the executives of Whizzz cereal (Milnaric, 2017). 
 
-Haroun carried out his scanning from Lagos, Nigeria and was successful in reaching the website in 30 hops using traceroute. The most significant delay in this exercise was the 30th hop at 133.44ms. There was no MX record identified.
+The absence of negative results which confirm the harmful effects of Whizzz cereal deters the manufacturers of the cereal to implement additional statistical research to mitigate the dangerous effects of the cereal. Consequently, ethical concerns must be contemplated by Abi prior to the publication of the research results to the manufacturers of Whizzz cereal. 
 
-Adrian did a scan from the Netherlands and in this particular example had 17 hops till the destination. That is due to the fact  the website is hosted in AWS and using cloud front to deliver the website to different regions efficiently. CloudFront is a CDN (Content Delivery Network) service that speeds up distribution of your website using own amazon datacenter infrastructure from edge locations. (What is Amazon CloudFront? - Amazon CloudFront, 2021). Due to this fact the results are different depending where the scanning is done. Destination IP address is also different depending on the location the scanning is being done due to the same reason as mentioned above. CloudFront has multiple endpoints at edge location in amazon infrastructure thus having different destination IPs for this particular FQDN (fully qualified domain name). We have also noticed multiple A records entries for the website and this is also due to CloudFront where multiple entries are used for redundancy purposes. Due to privacy regulations we can see that the contact registered for this domain is general as well as no MX entries present due to the fact that the domain does not serve mail purposes. 
+Resnik & Shamoo (2017) denote that reproducibility is the capacity of researchers and statistical programmers such as Abi attain similar findings when replicating a project. Thus, reproducibility provides researchers with evidence that the research findings are objective, trustworthy, and are not formulated with bias. Furthermore, the irreproducibility of Abi’s research project may signify adverse professional and ethical impacts on his integrity as a researcher.
 
-References: 
-Docs.aws.amazon.com. 2021. /What is Amazon CloudFront? - Amazon CloudFront/. [online] Available at: https://docs.aws.amazon.com/AmazonCloudFront/latest/DeveloperGuide/Introduction.html [Accessed 5 September 2021].
+As a result, Resnik & Shamoo (2017) maintain that the irreproducibility in scientific research is attributed to data misrepresentation and falsehood, which is an ethical problem. Nonetheless, the irreproducibility of Abi’s project findings can yield dire health consequences for the consumers of Whizzz cereal, thereby negatively affecting public welfare (Horton 2015). 
+
+In conclusion, the UK research integrity office (2021) states that organizations such as the institute which employs Abi must supervise and inspect research projects to guarantee that they are formulated in agreement with moral practices, in conjunction with legal and ethical obligations.  
+
+REFERENCES 
+
+
+Mlinarić, A., Horvat, M. and Šupak Smolčić, V., (2017) Dealing with the positive publication bias: Why you should really publish your negative results. Biochemia medica, 27(3), pp.447-452.
+
+Resnik, D.B. and Shamoo, A.E. (2017) Reproducibility and research integrity. Accountability in research, 24(2), pp.116-123.
+
+Gelman, A., (2015) Statistics and research integrity. European Science Editing, 41(1), pp.13-14.
+
+Horton, R., (2015) Offline: What is medicine’s 5 sigma. Lancet, 385(9976), p.1380.
+
+UK Research Integrity Office (2021) Code of Practice For Research Promoting good practice and preventing misconduct. Available at: https://ukrio.org/wp-content/uploads/UKRIO-Code-of-Practice-for-Research.pdf (Accessed: February 17, 2023). 
+![image](https://user-images.githubusercontent.com/83823903/220205646-98471543-72aa-41f7-9c01-18637f04e158.png)
