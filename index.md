@@ -2,7 +2,7 @@
 
 ---
 
-### Research Methods and Professional Practice haha ###  
+### Research Methods and Professional Practice ###  
 <img src="images/network-security.jpeg"/>
 [Summary of Learning Outcomes](/Outcomes.md)
 
