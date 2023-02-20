@@ -6,30 +6,84 @@
 <img src="images/network-security.jpeg"/>
 [Summary of Learning Outcomes](/Outcomes.md)
 
-### Collaborative Learning Discussions 
-[Threats & Vulnerabilities in Implantable Medical Devices](/disc1.md)
+### Collaborative Learning Discussions ### 
+[Codes of Ethics and Professional Conduct](/disc1.md)
 
 
-[Scanning Excercise](/scan.md)
+[Case Study: Accuracy of information](/scan.md)
 
 
-[GDPR Case Study](/case.md)
+
+
+
+---
+
+### Literature Review and Research Propsal Outlines ###
+
+[Literature Review Outline](/evaluation.md)
+
+
+[Research Proposal Outline](/design.md)
+
+---
+
+### Literature Review and Research Propsal Outlines ###
+
+[Literature Review Outline](/exec.md)
+
+[Research Proposal Outline](/case.md)
+
+---
+
+### Summary Measures and Hypothesis Testing Worksheets ###
+
+
+
+
+
+
+
+
+### Charts Worksheet ###
+
+
+
+
 
 
 ---
 
-### Vulnerability Scanning
+### Reflections  ###
 
-[Evaluation of Scanning Tools](/evaluation.md)
-
-
-[Design Document](/design.md)
-
-
-[Executive Summary](/exec.md)
-
+[Individual Unit Reflections]
 
 ---
+
+### Feedback from Tutor  ###
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
