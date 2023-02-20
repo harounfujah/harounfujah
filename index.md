@@ -36,16 +36,24 @@
 
 
 ### Independent Sample T Test ###
+<img src="images/independent.jpeg"/>
+
 
 
 ### Sample Size, Mean, and Standard Deviation ###
+<img src="images/samplesize.jpeg"/>
+
 
 
 ### Sample Median, Quartiles, and Interquartile Range ###
+<img src="images/samplemedian.jpeg"/>
+
 
 
 
 ### Frequencies and Percentage Frequencies ###
+<img src="images/frequencies.jpeg"/>
+
 
 
 
@@ -63,10 +71,23 @@
 
 
 
+
+
 ### Percentage Frequency Bar Chart ###
+<img src="images/percentagefreqbar.jpeg"/>
+
 
 
 ### Percentage Frequency Clustered Column Bar Chart ###
+<img src="images/percentagefreqclustered.jpeg"/>
+
+
+
+
+
+### Relative Frequency Histogram ###
+
+
 
 
 
