@@ -1,25 +1,33 @@
 Summary Post 
 
-My initial post highlighted the vulnerabilities present in a medical mannequin training scenario in the ‘Compromising a Medical Mannequin’ paper such as denial of service attacks and live CD brute force attacks (Glisson et al., 2015). I stated that a favorable countermeasure to denial of service attacks is the adoption of an Anomaly Intrusion Detection System. In addition, I recommended the use of two factor authentication to mitigate against the live CD brute force attack.
+Firstly, this summary post will review the application of the British Computer Society (BCS) Code of Conduct with the abusive workplace behaviour case study illustrated in the initial post, whilst appraising the resulting professional, legal, social, and ethical issues that affect computing professionals. 
 
-As Dr Beran mentioned, it is imperative that healthcare service providers implement zero trust architecture in their security policies. Zero trust architecture erodes the traditional security frontier and assures that enterprise resource data is available solely to entities who are duty-bound to access confidential data and allows only the minimal privileges required to carry out the task (Rose et al. 2020). This enables healthcare establishments to implement improved defenses over their networks, enterprise resources and IoT devices.  
-
-The Food and Drug Administration (FDA) advises that healthcare service providers constrain medical device access to trusted users with the use of authentication programs and distinct authorization privileges for a caregiver relative to a system administrator for instance (Webb & Dayal, 2017). This can be achieved with a zero-trust access system, whereby the objective is to circumvent unlawful access to privileged information with granular access control enforcement (Rose et al. 2020).
-
-In a zero trust access system, access is granted through a policy decision point and a consequent policy enforcement point, when a user requires admittance to enterprise data. The system confirms that the user is genuine and the request is acceptable. The PDP and PEP enforces the decision to permit the user access to the system. This infers zero trust in both authentication and authorization parameters, due to the contraction of implicit trust zones whilst upholding system availability. Therefore, this strengthens the security posture of healthcare services at large as authorized and approved personnel can access IoT devices and enterprise resource data at the exclusion of malicious individuals.
-
-In conclusion, users of implantable medical devices should employ decent cyber hygiene by teaching themselves the risks of buying medical devices which do not have the adequate security tools in place. Government agencies must adopt a greater presence in examining cybersecurity threats in the healthcare sector in order to offer knowledgeable guidance on present and forthcoming threats (Webb & Dayal, 2017).
+The team’s technical leader’s assumption of all the contributions made by Diane and her colleagues signifies abusive workplace supervision and leadership (ACM, N.D.). This is a violation of principle 3.3 of the BCS Code of Conduct which upholds the right of a team member such as Diane to claim responsibility for her work which was done under the supervision of a team leader (British Computer Society, 2022). Agarwal & Anantatmula (2022) denote that unmannerly supervision instigates employees such as Diane to suffer psychologically. This is an infringement of principle 1.1 of the BCS Code of Conduct which instructs computing professionals to have a mutual respect for each other’s safety (British Computer Society, 2022).  
 
 
+Consequently, abusive leaders discourage expertise sharing behaviour and reduce employee psychological safety (Argawal & Anantatmula, 2021). From a team member’s standpoint, participation in teams is an opportunity to gain higher job fulfilment and expertise (Argawal & Anantatmula, 2022).
 
+However, Diane’s team manager demeaned her experience of abusive workplace behaviour which signifies that the organisational structure involving the team leader and team manager is abusive (ACM, N.D.). The findings of a study with data collected from 239 Indian project organisation managers propose that business leaders must devote time and resources to curtail abusive supervision in the workplace by adopting proficient communication systems, functional involvement of team members, formal leadership education programs for managers and an equitable workplace dispute resolution system (Argawal & Anantatmula, 2021). As a result, this fosters a psychologically safe, professional, and ethical corporate environment for computing professionals at all levels of an organisation (Argawal & Anantatmula, 2021).
+ 
+In conclusion, it is an arduous task to withdraw all abusive managers from the workplace. Nonetheless, the aforementioned recommendations when adopted reduce the negative effects of offensive workplace supervision (Argawal & Anantatmula, 2021).   
+
+ 
+
+  
 References
 
+ 
 
+ACM Ethics. (N.D.) Case: Abusive Workplace Behaviour. Code of Ethics. Available from: https://ethics.acm.org/code-of-ethics/using-the-code/case-abusive-workplace-behavior// [Accessed 26 Nov 2022].
 
-Rose, S. , Borchert, O. , Mitchell, S. and Connelly, S. (2020), Zero Trust Architecture, Special Publication (NIST SP), National Institute of Standards and Technology, Gaithersburg, MD, [online], https://doi.org/10.6028/NIST.SP.800-207, https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=930420 (Accessed September 5, 2021)
+ 
 
+Agarwal, U.A. and Anantatmula, V. (2022) Knowledge Sharing in Project Teams: Psychological Barriers. IEEE Engineering Management Review.
 
-Glisson, W., Andel, T., McDonald, T., Jacobs, M., Campbell, M. & Mayr, J. (2015) Compromising a Medical Mannequin. Healthcare Information Systems and Technology (Sighealth).
+ 
 
+Agarwal, U.A. and Anantatmula, V. (2021) Psychological Safety Effects on Knowledge Sharing in Project Teams. IEEE Transactions on Engineering Management.
 
- Webb, T. and Dayal, S. (2017). Building the wall: Addressing cybersecurity risks in medical devices in the U.S.A. and Australia. Computer Law & Security Review, 33(4), pp.559-563.
+ 
+
+British Computer Society (2022) Code of Conduct for BCS Members. Available from: https://www.bcs.org/media/2211/bcs-code-of-conduct.pdf [Accessed 26 November 2022].
