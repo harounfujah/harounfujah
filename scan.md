@@ -23,4 +23,4 @@ Gelman, A., (2015) Statistics and research integrity. European Science Editing, 
 Horton, R., (2015) Offline: What is medicine’s 5 sigma. Lancet, 385(9976), p.1380.
 
 UK Research Integrity Office (2021) Code of Practice For Research Promoting good practice and preventing misconduct. Available at: https://ukrio.org/wp-content/uploads/UKRIO-Code-of-Practice-for-Research.pdf (Accessed: February 17, 2023). 
-![image](https://user-images.githubusercontent.com/83823903/220205646-98471543-72aa-41f7-9c01-18637f04e158.png)
+
