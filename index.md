@@ -29,7 +29,10 @@
 
 ### Summary Measures and Hypothesis Testing Worksheets ###
 
-### Two Tailed Test and One tailed Test ###
+### One tailed Test and Two Tailed Test ###
+<img src="images/onetwotailedtest.jpeg"/>
+
+
 
 
 ### Independent Sample T Test ###
