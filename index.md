@@ -30,7 +30,7 @@
 ### Summary Measures and Hypothesis Testing Worksheets ###
 
 ### One tailed Test and Two Tailed Test ###
-<img src="images/onetwotailedtest.jpeg"/>
+<img src="images/onetwotailedtest .jpeg"/>
 
 
 
